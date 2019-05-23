@@ -3,19 +3,19 @@
   "description": "Machine Learning for Sysco (Web)",
   "author": "Luciano Ropero <lropero@gmail.com>",
   "dependencies": {
-    "axios": "^0.16.2",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "axios": "^0.18.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "rimraf": "^2.6.2",
-    "webpack": "^3.6.0",
-    "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-server": "^2.9.1"
+    "rimraf": "^2.6.3",
+    "webpack": "^4.32.2",
+    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
   },
   "license": "UNLICENSED",
   "private": true,
