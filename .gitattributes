@@ -1,0 +1,3 @@
+*.php linguist-language=Python
+api/vendor/* linguist-vendored
+web/* linguist-vendored
